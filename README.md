@@ -1,3 +1,9 @@
+<h1 align="left">Hey 👋 What's up?</h1>
+
+<p align="left">My name is Oğuzhan</p>
+
+<h2 align="left">About me</h2>
+
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" height="40" style="vertical-align:top; margin:4px">
