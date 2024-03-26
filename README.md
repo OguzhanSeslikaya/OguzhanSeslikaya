@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan Seslikaya</h1>
-<h3 align="center">A passionate backend developer from Turkey</h3>
 
-## 🧰 Languages and Tools:
+<h2 align="center">🧰 Languages and Tools:</h2>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" height="40" style="vertical-align:top; margin:4px">
