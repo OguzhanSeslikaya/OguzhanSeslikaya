@@ -1,6 +1,5 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-<p align="left">My name is Oğuzhan</p>
+<h1 align="center">Hi 👋, I'm Oğuzhan Seslikaya</h1>
+<h3 align="center">A passionate backend developer from Turkey</h3>
 
 ## 🧰 Languages and Tools:
 <p align="center">
