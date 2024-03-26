@@ -14,4 +14,8 @@
 <img src="https://camo.githubusercontent.com/7518bdbe92e34ee62df755ffe857fafb4a7c537ed0e1b9f6a5bef7a1d3c8356a/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333232392f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2e737667" alt="sqlserver" height="40" style="vertical-align:top; margin:4px">
 <img src="https://camo.githubusercontent.com/6e263a69a32164441eeb95d1d13caf800ca405806ccafe5ae2fe9e686999e1fa/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7261626269746d712f7261626269746d712d69636f6e2e737667" alt="rabbitmq" height="40" style="vertical-align:top; margin:4px">
 </p>
-<img src="https://raw.githubusercontent.com/OguzhanSeslikaya/OguzhanSeslikaya/output/snake.svg" alt="Snake animation" />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OguzhanSeslikaya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OguzhanSeslikaya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
