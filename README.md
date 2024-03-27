@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan Seslikaya</h1>
-
+<p align=""></p>
+<p align=""></p>
+<p align=""></p>
+<p align=""></p>
 <h2 align="center">🧰 Languages and Tools:</h2>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" height="40" style="vertical-align:top; margin:4px">
