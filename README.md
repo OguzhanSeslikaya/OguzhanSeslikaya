@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan Seslikaya</h1>
-<p align="cneter">d</p>
-<p align="center">d</p>
-<p align="center">d</p>
-<p align="center">d</p>
+<p align="center">🎓 I'm currently studying Computer Engineering, diving deep into the world of algorithms, data structures, and software design.</p>
+<p align="center">💻 My primary programming language is C#, where I enjoy crafting efficient and elegant solutions to various problems.</p>
+<p align="center">🌐 I'm passionate about developing web applications with ASP.NET!</p>
 <hr/>
 <h2 align="center">🧰 Languages and Tools:</h2>
 <p align="center">
