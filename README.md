@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan Seslikaya</h1>
+<hr/>
 <p align="cneter">d</p>
 <p align="center">d</p>
 <p align="center">d</p>
