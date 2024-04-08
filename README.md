@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan Seslikaya</h1>
-<p align="center">🎓 🎓 I'm a Computer Engineering student who loves diving into the world of coding. I have experience with various libraries and frameworks like SignalR, IdentityServer4, Entity Framework, and RabbitMQ. Additionally, I've incorporated architectural patterns such as CQRS and Event Sourcing into my projects, aiming to build efficient and flexible solutions.</p>
+<p align="center">🎓 I'm a Computer Engineering student who loves diving into the world of coding. I have experience with various libraries and frameworks like SignalR, IdentityServer4, Entity Framework, and RabbitMQ. Additionally, I've incorporated architectural patterns such as CQRS and Event Sourcing into my projects, aiming to build efficient and flexible solutions.</p>
 <p align="center">🌟 By leveraging these architectures, I aim to reduce complexity, ease maintenance, and ensure scalability in my projects.</p>
 <p align="center">💻 My primary programming language is C#, where I enjoy crafting efficient and elegant solutions to various problems.</p>
 <p align="center">🌐 I'm passionate about developing web applications with ASP.NET!</p>
