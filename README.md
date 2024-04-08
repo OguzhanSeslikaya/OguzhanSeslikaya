@@ -2,7 +2,7 @@
 <p align="center">🎓  Bilgisayar Mühendisliği öğrencisiyim ve yazılım dünyasında zaman geçirmeyi seviyorum.</p>
 <p align="center">💻 C# ile uygulama geliştirmekten ve karşılaştığım problemlere etkili çözümler üretmekten keyif alıyorum.</p>
 <p align="center">🌐 ASP.NET ve Angular ile web uygulamaları geliştiriyorum!</p>
-<p align="center">🌟 SignalR, IdentityServer4, Entity Framework, Dapper ve RabbitMQ gibi çeşitli kütüphanelerle deneyimim var. Ayrıca, CQRS ve Event Sourcing gibi çeşitli durumlarda kullanılması gereken kalıpları projelerime entegre ederek, etkili ve esnek çözümler oluşturmayı amaçlıyorum.</p>
+<p align="center">🌟 SignalR, IdentityServer4, Entity Framework, Dapper ve RabbitMQ gibi çeşitli kütüphanelerle deneyimim var. Saga, Inbox-Outbox, CQRS ve Event Sourcing gibi çeşitli durumlarda kullanılması gereken kalıpları projelerime entegre ederek, etkili ve esnek çözümler oluşturmayı amaçlıyorum.</p>
 <h2 align="center"> Projelerimi oluşturmak için kullandığım araçlar: 🧰</h2>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" height="40" style="vertical-align:top; margin:4px">
